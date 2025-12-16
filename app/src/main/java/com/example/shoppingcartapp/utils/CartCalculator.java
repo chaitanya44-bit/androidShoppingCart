@@ -6,7 +6,7 @@ import java.util.List;
 public class CartCalculator {
     private static final double MIN_CART_VALUE = 1000.0;
     private static final double COUPON_DISCOUNT_PERCENT = 20.0;
-    private static final double MAX_COUPON_DISCOUNT = 7300.0;
+    private static final double MAX_COUPON_DISCOUNT = 300.0;
     private static final double PERCENT_DIVISOR = 100.0;
     
     public static double calculateItemTotal(List<CartItem> cartItems) {
