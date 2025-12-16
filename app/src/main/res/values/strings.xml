@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string name="products">Products</string>
+    <string name="cart">Cart</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="apply_coupon">Apply Coupon</string>
+    <string name="item_total">Item Total</string>
+    <string name="tax_total">Tax Total</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="coupon_discount">Coupon Discount</string>
+    <string name="final_amount">Final Amount</string>
+    <string name="empty_cart">Your cart is empty</string>
+    <string name="order_successful">Order Successful!</string>
+    <string name="thank_you">Thank you for your purchase</string>
+    <string name="continue_shopping">Continue Shopping</string>
+</resources>
